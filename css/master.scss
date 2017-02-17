@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500);
+
+@import 'theme';
+
+.syncmain{
+    font-family: Roboto;
+    font-weight:400;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-column{
+
+}
+
+.main-content{
+
+}
+
+.right-column{
+
+}
+
+@import 'loader';
